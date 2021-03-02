@@ -14,10 +14,10 @@ I created a complete system where crime witness can share evidence (visuals) wit
 
 ## Screenshots
 
-
-<img src="https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45548899_557928017989677_5770672094165598208_n.png" width="300">
-
-<img src="https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45500562_922501537956618_8142054646458875904_n.jpg" width="300">
+<p float="left">
+ <img src="https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45548899_557928017989677_5770672094165598208_n.png" width="300">
+ <img src="https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45500562_922501537956618_8142054646458875904_n.jpg" width="300">
+</p>
 
 <img src="https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45509262_251128718895710_2099702252796116992_n.png" width="300">
 
