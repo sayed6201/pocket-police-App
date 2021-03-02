@@ -14,7 +14,7 @@ I created a complete system where crime witness can share evidence (visuals) wit
 
 ##Screenshots
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45548899_557928017989677_5770672094165598208_n.png | width=48)
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45548899_557928017989677_5770672094165598208_n.png =24x48)
 
 ![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45500562_922501537956618_8142054646458875904_n.jpg | width=48)
 
