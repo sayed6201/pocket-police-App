@@ -14,14 +14,14 @@ I created a complete system where crime witness can share evidence (visuals) wit
 
 ##Screenshots
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45548899_557928017989677_5770672094165598208_n.png "")
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45548899_557928017989677_5770672094165598208_n.png | width=48)
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45500562_922501537956618_8142054646458875904_n.jpg "")
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45500562_922501537956618_8142054646458875904_n.jpg | width=48)
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45509262_251128718895710_2099702252796116992_n.png "")
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45509262_251128718895710_2099702252796116992_n.png | width=48)
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45610872_341743586588335_7394898716852748288_n.jpg "")
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45610872_341743586588335_7394898716852748288_n.jpg | width=48)
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45654827_1938157216270803_4190702687102173184_n.png "")
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45654827_1938157216270803_4190702687102173184_n.png | width=48)
 
-![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45731028_2090895264556373_394131904460226560_n.png "")
+![Cluster](https://github.com/sayed6201/pocket-police-App/blob/master/pocket_police_screenchots/45731028_2090895264556373_394131904460226560_n.png | width=48)
